@@ -1,5 +1,3 @@
-Below is a **clean, professional README content** suitable for a **GitHub / project submission**, written in a **business-analytics tone**, concise yet sufficiently detailed.
-
 ---
 
 # Restaurant Price Segmentation & Couple Spending Analysis
